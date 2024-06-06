@@ -1,0 +1,124 @@
+body{
+    overflow-x: hidden;
+}
+.nav-bg{
+    background-color: #0A0B27;
+    position: fixed;
+    z-index: 9;
+}
+
+.card-body{
+    border: none;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.footer-link:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.bg-color{
+    background-color: rgb(240, 145, 48);
+}
+.bg{
+    background: rgb(240, 145, 48);
+    height: 1184px;
+}
+
+.bg-1-color{
+
+    background-color: #fff;
+}
+
+.bg-1{
+    background:#fff;
+    height: 1184px;
+}
+
+.bg-2{
+    background:#fff;
+    height: 1184px;
+}
+
+
+
+.right-section{
+    padding: 4rem;
+    
+}
+
+
+.footer-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.footer-link:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.card-text{
+    line-height: 16px;
+    font-size: 14px;
+} 
+
+.card-text-2{
+    line-height: 15px;
+    font-size: 14px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    padding-top: 3.5rem;
+}
+
+ nav{
+    background-color: #0a0b27;
+}
+
+.collapse{
+    display: flex;
+    justify-content: end;
+}
+
+.navbar-nav{
+    font-size: 1.2rem;
+}
+.collapse ul li a{
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+.collapse ul li a:hover{
+    color: rgba(247, 32, 32, 0.893);
+}
+.container-fluid{
+    margin: 0;
+}
+
+.fruit{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 800;
+    font-family: "EksellDisplayWeb-Small";
+}
+
+.fruit{
+    position: absolute;
+}
+
+
+
+
+
